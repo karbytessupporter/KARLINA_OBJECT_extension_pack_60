@@ -6,15 +6,15 @@ This Python program prints the SHA-256 checksum of each file inside of a particu
 
 Directory: karbytes2026_1
 
-file_0: KARLINA_OBJECT_extension_pack_52-main.zip // SHA-256: 8cd535597709a786145ddc40600afdc34cf4f1bf61941e178daf9b5300c80558
+file_0: KARLINA_OBJECT_extension_pack_60-main_23march2026.zip // SHA-256: 6a629f0484e82aa0a614eda65b869e44ff8b44197553a1d8734d47ce74bfb9f1
 
-file_1: karbytes_basement_51-main.zip // SHA-256: 9a1387881d72f6d4c559b481a6a50cb8bcc5a7f2df80dc72e49f0a215290a8fd
+file_1: KARLINA_OBJECT_extension_pack_52-main.zip // SHA-256: 8cd535597709a786145ddc40600afdc34cf4f1bf61941e178daf9b5300c80558
 
-file_2: KARLINA_OBJECT_extension_pack_55-main.zip // SHA-256: c349e305c22129e1dee7f91ff8e1370f8e35ceb4d0262b3b27ae01d777c03420
+file_2: karbytes_basement_51-main.zip // SHA-256: 9a1387881d72f6d4c559b481a6a50cb8bcc5a7f2df80dc72e49f0a215290a8fd
 
-file_3: KARLINA_OBJECT_extension_pack_54-main.zip // SHA-256: 03421d84e2c97c1403b1fbdc2969ea3e3742959c44124910fc7423bca612ad23
+file_3: KARLINA_OBJECT_extension_pack_55-main.zip // SHA-256: c349e305c22129e1dee7f91ff8e1370f8e35ceb4d0262b3b27ae01d777c03420
 
-file_4: karbytes_wayback_machine_saves_precision_batches_extension_1-main_22march2026.zip // SHA-256: 28f58a0da5331defaddd6adf1da0c284c7e859fcb4e0628b7e86aa9d5c06062e
+file_4: KARLINA_OBJECT_extension_pack_54-main.zip // SHA-256: 03421d84e2c97c1403b1fbdc2969ea3e3742959c44124910fc7423bca612ad23
 
 file_5: karbytes_human_genome_fasta_part_2-main.zip // SHA-256: 4e62654721dc5fb1a0c1507ac2f686fa0219f73a93d5d3d135c3e12ac62e74a2
 
@@ -40,7 +40,7 @@ file_15: reference_human_genome_fasta_hg38-main.zip // SHA-256: f8f0dee1f4317950
 
 file_16: karbytes_wayback_machine_saves_precision_batches-main.zip // SHA-256: 7d55574c84f0098625bcae823901fd088e8290929ce7e1f0b2e5bc28fc301818
 
-file_17: KARBYTES_FOR_LIFE_BLOG-main_22march2026.zip // SHA-256: e99848843eda50adbc7074a39043e38d53d4d20ceb59f4b79ae709a46b69221d
+file_17: karbytes_wayback_machine_saves_precision_batches_extension_1-main_23march2026.zip // SHA-256: aedd181216eade656b04b0fc1afa001d8e6c90ad06541c19e3f93a6da8525c37
 
 file_18: karbytes_basement_49-main.zip // SHA-256: 57276dbc33bb32ead9af25f70209fd61bdf658d1b11ad78cb8c19b31aec9e67d
 
@@ -56,19 +56,19 @@ file_23: karbytes_basement_48-main.zip // SHA-256: fa9109025760403ced14afe5c6351
 
 file_24: KARLINA_OBJECT_extension_pack_50-main.zip // SHA-256: e392f0121de7ed35a1b868eb4ef15c2aea047aea5d0fc7910c5fc798d820bf94
 
-file_25: karbytes_basement_47-main.zip // SHA-256: 827ba915a06eab247119279f460fd4027c6e441b71d0b0dda523342b6845876b
+file_25: KARBYTES_FOR_LIFE_BLOG-main_23march2026.zip // SHA-256: 26497fd15289798902ed54e564436e3a91c82515f29238f57f9ce3dbd95af984
 
-file_26: karbytes_dark_websites-main.zip // SHA-256: e7040d2be96177060074883447a0f4f44b7cef4f4614ae33e676b498002d2c90
+file_26: karbytes_basement_47-main.zip // SHA-256: 827ba915a06eab247119279f460fd4027c6e441b71d0b0dda523342b6845876b
 
-file_27: karbytes_test_github_hosted_website-main.zip // SHA-256: c45fbb2f50d30430efcc1c0529d53c23b3a50ac7558a876efc349e448fc03017
+file_27: karbytes_dark_websites-main.zip // SHA-256: e7040d2be96177060074883447a0f4f44b7cef4f4614ae33e676b498002d2c90
 
-file_28: karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip // SHA-256: 186d226d4dab80c94445739640856dfc064393ffc3ab48d3b8eccc9748459d16
+file_28: karbytes_test_github_hosted_website-main.zip // SHA-256: c45fbb2f50d30430efcc1c0529d53c23b3a50ac7558a876efc349e448fc03017
 
-file_29: karbytes_human_genome_fasta_part_1-main.zip // SHA-256: d7244d820a119b4b267aea7bf8104d0c7a0e03854c3319a7a7f03264085ce772
+file_29: karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip // SHA-256: 186d226d4dab80c94445739640856dfc064393ffc3ab48d3b8eccc9748459d16
 
-file_30: the_big_green_thing_2025-main.zip // SHA-256: 06d428dc8abb478c4116ddd9583723c870409f0e234cef777a14abe57ca2d7ab
+file_30: karbytes_human_genome_fasta_part_1-main.zip // SHA-256: d7244d820a119b4b267aea7bf8104d0c7a0e03854c3319a7a7f03264085ce772
 
-file_31: KARLINA_OBJECT_extension_pack_60-main_22march2026.zip // SHA-256: 918a72fa350d55911d0bafded5e6041c2594af230682df18328bba5bf8d0cca8
+file_31: the_big_green_thing_2025-main.zip // SHA-256: 06d428dc8abb478c4116ddd9583723c870409f0e234cef777a14abe57ca2d7ab
 
 file_32: karbytes_basement_46-main.zip // SHA-256: ab9122509176957938ff423f8591b4afa4c1555f449d5b832df8069b47c5e693
 
