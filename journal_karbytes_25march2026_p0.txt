@@ -1,0 +1,17 @@
+/**
+ * file: journal_karbytes_25march2026_p0.txt
+ * type: plain-text
+ * date: 25_MARCH_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Privacy is strategic concealment (particularly of information). 
+
+Privacy is implemented through the "instruments" of temporal and spatial distance (between the object being "hidden" and potential observers or registers of that object) and/or through intentional creation of "entropy" sufficient to obscure the "line of sight" between the object being "hidden" and potential observers or registers of that object.
+
+* * *
+
+karbytes_0: "Do you think that definition of privacy you just wrote the first instance of its kind?"
+
+karbytes_1: "Not necessarily, but I generally default to the assumption that I am the first information processing agent to generate that exact sequence of words (at least in the universe I appear to myself to be living inside of).
