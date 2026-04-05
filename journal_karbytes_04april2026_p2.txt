@@ -1,0 +1,21 @@
+/**
+ * file: journal_karbytes_04april2026_p2.txt
+ * type: plain-text
+ * date: 04_APRIL_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+KARBYTES_CONTENT_UPDATING_RULES
+
+(CMR[N] -> Content Management Rule # N (out of some nonnegative integer no smaller than N))
+
+* * *
+
+CMR0: Changes to KARBYTES always occur within a decade of each other.
+
+If more than ten Earth years have elapsed since the last time KARBYTES was updated, then it can be assumed that KARBYTES is permanently closed to further updates.
+
+CMR1: Exactly one person is authorized by KARBYTES to make any changes to KARBYTES.
+
+Only the person named Kar Beringer (i.e. karbytes as defined by KARBYTES) is authorized by karbytes to make updates to KARBYTES.
