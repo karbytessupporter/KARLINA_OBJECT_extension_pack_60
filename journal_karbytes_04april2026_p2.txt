@@ -16,7 +16,7 @@ KARBYTES_CONTENT_UPDATING_RULES
 
 * * *
 
-CMR0: Changes to KARBYTES always occur within a decade of each other.
+CMR0: Subsequent changes to KARBYTES always occur within a decade of each other.
 
 If more than ten Earth years have elapsed since the last time KARBYTES was updated, then it can be assumed that KARBYTES is permanently closed to further updates.
 
