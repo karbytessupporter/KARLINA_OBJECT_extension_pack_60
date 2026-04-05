@@ -8,6 +8,12 @@
 
 The following is a plain-text transcript of a conversation between karbytes and ChatGPT-5.2 (using Standard Text Mode) took place between 11:59PM Pacific Standard Time on 04_APRIL_2026 and 11:59PM Pacific Standard Time on 05_APRIL_2026.
 
+relevant_web_pages:
+
+https://karbytesforlifeblog.wordpress.com/karbytes_rules_for_itself/
+
+https://karbytesforlifeblog.wordpress.com/karbytes_content_updating_rules/
+
 * * *
 
 karbytes:
