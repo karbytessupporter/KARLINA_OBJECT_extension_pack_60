@@ -23,3 +23,8 @@ If more than ten Earth years have elapsed since the last time KARBYTES was updat
 CMR1: Exactly one person is authorized by KARBYTES to make any changes to KARBYTES.
 
 Only the person named Kar Beringer (i.e. karbytes as defined by KARBYTES) is authorized by karbytes to make updates to KARBYTES.
+
+* * *
+
+The web page at the following Uniform Resource Locator extends the rules declared on this web page: https://karbytesforlifeblog.wordpress.com/expanding_karbytes_best_practices/
+
