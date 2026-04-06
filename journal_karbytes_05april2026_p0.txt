@@ -56,6 +56,24 @@ Ensure that the following web pages (or web-hosted directories) are up to date a
 
 -> https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_[N]/main/raw_github_files_directory_KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO.html
 
+-> https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_[K]/sub-index_page_B.html
+
+* * *
+
+STEP_4: Determine whether or not KARBYTES_BLOG_APPS_github_hosted_website web page(s) need to be updated.
+
+Ensure that the following web pages (or web-hosted directories) are up to date at this temporal point in KARLINA_OBJECT_extension_pack_[N]'s instantiation and editing phase:
+
+-> https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_BLOG_APPS_github_hosted_website/
+
+-> https://karlinarayberinger.github.io/KARBYTES_BLOG_APPS_github_hosted_website/
+
+-> https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_BLOG_APPS_github_hosted_website/main/index.html
+
+-> https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_[N]/main/raw_github_files_directory_KARBYTES_BLOG_APPS_github_hosted_website.html
+
+-> https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_[K]/sub-index_page_C.html
+
 * * *
 
 Additional Notes:
