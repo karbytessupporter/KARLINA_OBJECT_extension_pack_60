@@ -134,4 +134,10 @@ The home page (i.e. START_PAGE) of Karbytes For Life Blog dot WordPress dot Com 
 
 https://karbytesforlifeblog.wordpress.com/
 
+~ ~ ~
 
+5. Further information about how karbytes maintains and expands its infrastructure is available at the following Uniform Resource Locators. The first of those URLs (i.e. the top URL) pertains mostly to the software aspects of KARBYTES while the second of those URLs (i.e. the bottom URL) pertains mostly to the hardware aspects of KARBYTES:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_30march2026/
+
+https://karbytesforlifeblog.wordpress.com/karbytes_system_setup_guide_2025/
