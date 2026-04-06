@@ -1,4 +1,14 @@
+/**
+ * file: journal_karbytes_05april2026_p0.txt
+ * type: plain-text
+ * date: 05_APRIL_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
+EXPANDING_KARBYTES_BEST_PRACTICES
+
+* * *
 
 STEP_0: Initialize new KARLINA_OBJECT_extension_pack_[N] micro-directory.
 
