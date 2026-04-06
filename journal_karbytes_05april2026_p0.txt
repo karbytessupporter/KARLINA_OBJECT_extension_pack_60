@@ -114,7 +114,7 @@ Ensure that the following web pages (or web-hosted directories) are up to date a
 
 -> https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_[N]/main/karbytes_for_life_blog_updates.txt
 
--> https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_61/main/karbytes2026_1_checksums.txt
+-> https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_[N]/main/karbytes[year]_[year_version]_checksums.txt
 
 * * *
 
