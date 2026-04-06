@@ -106,6 +106,34 @@ Ensure that the following web pages (or web-hosted directories) are up to date a
 
 * * *
 
+STEP_7: Update time-stamp(s) on home page of Karbytes For Life Blog dot WordPress dot Com.
+
+Ensure that the following web pages (or web-hosted directories) are up to date at this temporal point in KARLINA_OBJECT_extension_pack_[N]'s instantiation and editing phase:
+
+-> https://karbytesforlifeblog.wordpress.com/
+
+-> https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_[N]/main/karbytes_for_life_blog_updates.txt
+
+-> https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_61/main/karbytes2026_1_checksums.txt
+
+* * *
+
+STEP_8: Save the latest KARBYTES changes on M_DISCs and WayBack Machine.
+
+Create at least three M_DISC copies of karbytes[year]_[year_version].
+
+Save recently updated KARBYTES files in the WayBack Machine database at the following Uniform Resource Locator:
+
+-> https://web.archive.org/save
+
+The latest version of the catalog of all the zip files which are part of the KARBYTES file collection is located at the following Uniform Resource Locator:
+
+-> https://karbytesforlifeblog.wordpress.com/mdisc_karbytes[year]_[year_version]/
+
+Save as many files of KARBYTES to the WayBack Machine as is feasible. karbytes has a goal of saving each file of KARBYTES to the WayBack Machine at least one hundred times (within karbytes' lifespan).
+
+* * *
+
 Additional Notes:
 
 1. KARLINA_OBJECT_extension_pack_61 contains a ChatGPT-generated image (of a "black hole" inside of a transparent glassy cube suspended above the floor of a room whose interior walls resemble graphing paper) and a Sora-generated video of that image in order to give that micro-directory sufficient bulk to retain the same approximate data size (as that data size appears in karbytes[year]_[year_version]_contents.txt and mdisc_karbytes[year]_[year_version].txt (where [year] is a placeholder for some nonnegative integer representing the respective Gregorian calendar year and where [year_version] is a placeholder for some nonnegative integer representing the respective version of karbytes content which is created and/or refined during that year)) between relatively small (in data size) updates to that micro-directory.
