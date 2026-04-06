@@ -66,6 +66,8 @@ Ensure that the following web pages (or web-hosted directories) are up to date a
 
 -> https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_[K]/sub-index_page_B.html
 
+-> https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_[K]/sub-index_page_E.html
+
 * * *
 
 STEP_4: Determine whether or not KARBYTES_BLOG_APPS_github_hosted_website web page(s) need to be updated.
