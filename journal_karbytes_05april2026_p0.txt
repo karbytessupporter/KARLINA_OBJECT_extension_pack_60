@@ -54,7 +54,7 @@ Ensure that the following web pages (or web-hosted directories) are up to date a
 
 -> https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO/
 
--> 
+-> https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_[N]/main/raw_github_files_directory_KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO.html
 
 * * *
 
