@@ -16,6 +16,12 @@ Use the following karbytes micro-directory as a template for initializing new KA
 
 -> https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_61/
 
+-> https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_64.html
+
+-> https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_65.html
+
+--> https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_66.html
+
 (IMPORTANT: Be sure to use the latest version of the files mentioned in this document which are revised across multiple KARLINA_OBJECT_extension_pack_[N] micro-directories rather than the latest version of those files in KARLINA_OBJECT_extension_pack_61)!!!
 
 * * *
