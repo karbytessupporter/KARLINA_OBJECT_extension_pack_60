@@ -22,12 +22,12 @@ ChatGPT:
 
 Generated image: Stylish lizard on a finger
 
+karbytes:
 
-Edit
+[uploaded_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_34/main/github_karbytessupporter_profile_icon.png]
 
+[uploaded_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/karbytes_selfie_03april2026_p0.jpg]
 
-Uploaded image
-Uploaded image
 Make the lizard and the human appear to switch places (with the lizard wearing the human's clothes and the human climbing the lizard's finger) in a single split image.
 
 Generated image: Lizard in clothes, human on giant finger
