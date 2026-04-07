@@ -30,83 +30,104 @@ karbytes:
 
 Make the lizard and the human appear to switch places (with the lizard wearing the human's clothes and the human climbing the lizard's finger) in a single split image.
 
+ChatGPT:
+
+[generated_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/chatgpt_generated_image_lizard_human_mashup_06april2026_p0.png]
+
 Generated image: Lizard in clothes, human on giant finger
 
+karbytes:
 
-Edit
-
-
-Uploaded image
-Uploaded image
 Okay, now turn the human in this image into the lizard in the other picture wearing the human's clothes.
+
+ChatGPT:
+
+[generated_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/chatgpt_generated_image_lizard_human_mashup_06april2026_p1.png]
 
 Generated image: Lizard man perched on a finger
 
-
-Edit
-
+karbytes:
 
 I mean, make the output image take place in that bathroom but with a human-sized lizard wearing the human's clothes and standing in the human's pose.
 
+ChatGPT:
+
+[generated_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/chatgpt_generated_image_lizard_human_mashup_06april2026_p2.png]
+
 Generated image: Lizard in orange outfit in bathroom
 
-
-Edit
-
+karbytes:
 
 Make it even more lizard-like.
 
+ChatGPT:
+
+[generated_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/chatgpt_generated_image_lizard_human_mashup_06april2026_p3.png]
+
 Generated image: Lizard in orange outfit posing indoors
 
+karbytes:
 
-Edit
+[uploaded_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_34/main/github_karbytessupporter_profile_icon.png]
 
-
-Uploaded image
 Make the lizard's face more like this one. Also, give it a tail.
+
+ChatGPT:
+
+[generated_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/chatgpt_generated_image_lizard_human_mashup_06april2026_p4.png]
 
 Generated image: Lizard perched on a finger
 
-
-Edit
-
+karbytes:
 
 I mean, make the second to last image you generated have a distinctly lizard shaped head. This time no sunglasses so we can see its black eyes and lids like in the input photograph of the lizard.
 
+ChatGPT:
+
+[generated_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/chatgpt_generated_image_lizard_human_mashup_06april2026_p5.png]
+
 Generated image: Lizard in human attire striking a pose
 
-
-Edit
-
+karbytes:
 
 Great, but let the tail come from behind instead of through the pant leg, get rid of that vestigial finger in the background, and now give the lizard some sunglasses which are slightly transparent so the eyes are visible.
 
+ChatGPT:
+
+[generated_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/chatgpt_generated_image_lizard_human_mashup_06april2026_p6.png]
+
 Generated image: Lizard in style and sunglasses
 
-
-Edit
-
+karbytes:
 
 Make sure the wall behind the creature is all white with no artifacts (especially ones which are human skin tone).
 
+ChatGPT:
+
+[generated_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/chatgpt_generated_image_lizard_human_mashup_06april2026_p7.png]
+
 Generated image: Lizard in orange with fanny pack
 
+karbytes:
 
-Edit
+[uploaded_image:https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/chatgpt_generated_image_lizard_human_mashup_06april2026_p8.png]
 
-
-Uploaded image
 Do you notice the giant finger artifact behind the lizard person in this image? If so, can you edit that artifact out?
+
+ChatGPT:
+
+[generated_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/chatgpt_generated_image_lizard_human_mashup_06april2026_p9.png]
 
 Generated image: Lizard in casual apparel pose
 
-
-Edit
-
+karbytes:
 
 Perfect! It looks rad!
 
+ChatGPT:
+
 Glad you like it 😄🔥
+
 That one came together really clean—strong “reptile swagger” energy with the outfit + pose. If you want to push it further (more realistic, more stylized, different outfits, environment changes, etc.), I’m down to iterate more.
 
 
